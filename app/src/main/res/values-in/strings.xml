@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_home">Beranda</string>
+
+    <string name="title_menu_movies">Film</string>
+    <string name="title_menu_tvshow">Acara TV</string>
+
+    <string name="title_activity_movie_detail">Deskripsi Film</string>
+    <string name="image_poster">Gambar Poster</string>
+    <string name="title">Judul</string>
+    <string name="status">Status</string>
+    <string name="title_budgets">Anggaran</string>
+    <string name="title_revenue">Pendapatan</string>
+
+    <string name="languange">Indonesia</string>
+    <string name="genres">Kategore</string>
+    <string name="detail_overview">Deskripsi film</string>
+    <string name="title_crew">Tim</string>
+    <string name="crew_detail">Kru terkait</string>
+    <string name="title_overview">Deskripsi</string>
+
+    <string name="budget">$4,000,000,00</string>
+    <string name="revenue">$19,000,000,00</string>
+    <string name="third_line">line_ketiga</string>
+    <string name="status_detail">Telah Rilis</string>
+    <string name="icon_language">icon_bahasa</string>
+    <string name="date_relealesed">waktu_tayang</string>
+    <string name="user_score">87%</string>
+    <string name="runtime">1j 45m</string>
+    <string name="star_icon">star_icon</string>
+    <string name="timer_icon">waktu_icon</string>
+    <string name="icon_released_detail">icon_rilis_detail</string>
+    <string name="first_line">pertama_line</string>
+    <string name="second_line">kedua_line</string>
+    <string name="genre_detail">Keterangan Jenis</string>
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+</resources>
